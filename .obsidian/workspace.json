@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Namnlös.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Namnlös"
             }
           }
         ]
@@ -199,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6f3119a7eb65c4e",
+  "active": "17b78de14f4b7687",
   "lastOpenFiles": [
     "Test.md",
     "Namnlös.md",
