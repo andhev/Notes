@@ -11,14 +11,15 @@
             "id": "ab330ad3fa4228c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Test.md",
+                "bFile": "Test.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Test"
+              "icon": "diff",
+              "title": "Diff: Test  (Index)"
             }
           }
         ]
@@ -99,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +160,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
