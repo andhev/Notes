@@ -1,4 +1,4 @@
-| Kolumn 1 | Kolumn 2 | Kolumn 3 | Kolumn 4 |     |
+| Kolumn 1 | Kolumn 2 | Kolumn 3 | Kolumn 4 | K2  |
 | -------- | -------- | -------- | -------- | --- |
 |          |          |          |          |     |
 |          |          |          |          |     |
